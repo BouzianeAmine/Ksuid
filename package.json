@@ -1,0 +1,14 @@
+{
+  "name": "ksuim-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Amine",
+  "license": "Amine Bouziane",
+  "private": null,
+  "dependencies": {
+    "@types/node": "^14.14.3",
+    "invoice-number": "^1.0.6",
+    "ksuid": "^2.0.0",
+    "mksuid": "^0.1.1"
+  }
+}
